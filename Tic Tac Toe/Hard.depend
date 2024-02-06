@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670356727 source:d:\Программирование\miniprojects\hard\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+

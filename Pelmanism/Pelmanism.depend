@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1675281001 source:d:\Программирование\miniprojects\pelmanism\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<strings.h>
+	<unistd.h>
+	<conio.h>
+

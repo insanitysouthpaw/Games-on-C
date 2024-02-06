@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1674581777 source:d:\Программирование\miniprojects\arcaderace\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<strings.h>
+	<unistd.h>
+	<conio.h>
+

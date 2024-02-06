@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1686934848 source:d:\Программирование\miniprojects\tron\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+	<unistd.h>
+	<conio.h>
+

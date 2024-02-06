@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1683224623 source:d:\Программирование\miniprojects\lumberjack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<strings.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+

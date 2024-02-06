@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1670955998 source:d:\Программирование\miniprojects\race\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+	<unistd.h>
+

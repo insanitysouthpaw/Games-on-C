@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1672408483 source:d:\Программирование\miniprojects\clock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<strings.h>
+

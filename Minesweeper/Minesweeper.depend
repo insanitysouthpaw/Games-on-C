@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1670512550 source:d:\Программирование\miniprojects\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+	<unistd.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1673520174 source:d:\Программирование\miniprojects\frogger\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<strings.h>
+

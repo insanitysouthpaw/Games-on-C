@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1671820376 source:d:\Программирование\miniprojects\galacticpong\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<strings.h>
+	<unistd.h>
+	<conio.h>
+

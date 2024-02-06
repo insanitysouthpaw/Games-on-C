@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1675219438 source:d:\Программирование\miniprojects\tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<strings.h>
+	<unistd.h>
+	<conio.h>
+

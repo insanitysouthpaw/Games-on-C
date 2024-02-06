@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1672609262 source:d:\Программирование\miniprojects\tank\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<strings.h>
+	<conio.h>
+	<unistd.h>
+

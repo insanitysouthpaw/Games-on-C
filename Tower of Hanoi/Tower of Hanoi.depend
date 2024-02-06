@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1680269109 source:d:\Программирование\miniprojects\tower of hanoi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<strings.h>
+	<unistd.h>
+	<conio.h>
+	<math.h>
+

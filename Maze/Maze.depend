@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1691511231 source:d:\Программирование\miniprojects\maze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<strings.h>
+	<unistd.h>
+	<conio.h>
+	<time.h>
+
