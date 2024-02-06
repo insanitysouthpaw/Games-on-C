@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1672608261 source:d:\Программирование\miniprojects\geometry\main.c
-	<stdio.h>
-	<stdlib.h>
-	<stdbool.h>
-	<strings.h>
-
